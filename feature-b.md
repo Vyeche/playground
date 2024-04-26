@@ -7,3 +7,4 @@
 
 - It looks like I can't yet find the tree.
 - I had another thought. I can delete the old feature A Branch.
+- I deleted the A branch. Everything seems okay. World is still a world.
