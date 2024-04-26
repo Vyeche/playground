@@ -6,3 +6,4 @@
 # Thoughts on Feature A
 
 - What will the tree look like on GIT after publish the mark down files.
+- I like making my commits like a game.
