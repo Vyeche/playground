@@ -6,3 +6,4 @@
 # Thoughts on Feature B
 
 - It looks like I can't yet find the tree.
+- I had another thought. I can delete the old feature A Branch.
